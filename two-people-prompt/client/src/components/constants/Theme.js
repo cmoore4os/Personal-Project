@@ -1,5 +1,3 @@
-import React from 'react';
-
 export const breakpoints = {
   breakpoints: {
     xs: 0,
